@@ -1,7 +1,12 @@
 # Object Detection and Analysis with YOLOv11
 
-This repository demonstrates the use of [Ultralytics](https://www.ultralytics.com/) YOLOv11 for various tasks such as **object detection**, **image level classification**, **object segmentation**, **oriented object detection**, and **pose estimation**.
+This repository demonstrates the use of [Ultralytics](https://www.ultralytics.com/) YOLOv11 for various tasks such as:
+- **Image Level Classification**
+- **Object Detection** (and **Oriented Object Detection**)
+- **Object Segmentation**
+- and **Pose Estimation**
 
+****
 ## Environment Setup
 
 First, create a conda environment with Python 3.9:
