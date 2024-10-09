@@ -1,4 +1,4 @@
-# Object Detection and Analysis with YOLOv11
+# All in one image based Object Detection and Analysis using YOLOv11
 
 This repository demonstrates the use of [Ultralytics](https://www.ultralytics.com/) YOLOv11 for various tasks such as:
 - **Image Level Classification**
