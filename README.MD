@@ -39,13 +39,13 @@ The application will load the model, process the images, and display the results
 
 
 ## Train and Evaluate the Model
-Modify (as needed) and run the following scripts. To train:
+Modify (as needed) and run the following scripts. To **train**:
 ```commandline
 python train.py
 ```
 you will find the trained model in the `./runs` folder. 
 
-To evaluate the model:
+To **evaluate** the model:
 ```commandline
 python eval.py
 ```
