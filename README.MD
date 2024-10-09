@@ -21,6 +21,11 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 pip install ultralytics
 ```
 
+## clone the repository
+```commandline
+git clone https://github.com/MjdMahasneh/object_detection_and_analysis.git
+cd object_detection_and_analysis
+```
 
 ## Configuration
 Before running the application, update the data location path in the configuration file. Open `./configs/coco8.yaml` with Notepad++ (download it from [Notepad++](https://notepad-plus-plus.org/downloads/)) and modify the path as necessary.
