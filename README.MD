@@ -21,7 +21,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 pip install ultralytics
 ```
 
-## clone the repository
+## Clone the repository
 ```commandline
 git clone https://github.com/MjdMahasneh/object_detection_and_analysis.git
 cd object_detection_and_analysis
