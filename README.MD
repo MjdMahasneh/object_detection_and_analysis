@@ -55,7 +55,7 @@ To **evaluate** the model:
 python eval.py
 ```
 
-Check [ultralytics configurations](https://docs.ultralytics.com/usage/cfg/#modes) to familiarize yourself with the Model class and parameters.
+Check [ultralytics configurations](https://docs.ultralytics.com/usage/cfg/#modes) to familiarize yourself with the model class and parameters.
 
 
 
