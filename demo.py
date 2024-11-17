@@ -33,5 +33,3 @@ print('Results: ', results)
 ## access boxes and keypoints
 print('boxes ', results[0].boxes)
 print('keypoints ', results[0].keypoints)
-
-print('Done!')
